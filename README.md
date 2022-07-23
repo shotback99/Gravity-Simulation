@@ -7,6 +7,6 @@ The way the planets collide and bounce off each other may not be realistic or be
 
 I used this article to help me understand how to implement the collisions: https://seanny1986.wordpress.com/2017/10/01/simulation-of-elastic-collisions-in-python/
 
-To play with this simulation you only need to download the zip file and then unzip it and click on the exe. Make sure you keep the main.xe and the data folder in the same folder, otherwise it won't work as the main.exe won't be able to find the dependicies in the data folder
+To play with this simulation you need to download the zip file and then unzip it and click on the exe. Make sure you keep the main.exe and the data folder in the same folder, otherwise it won't work as the main.exe won't be able to find the dependicies in the data folder
 
 Have fun!
